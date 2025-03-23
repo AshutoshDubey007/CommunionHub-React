@@ -1,7 +1,5 @@
 # Event Management Website
 
-## Live Demo
-[Click here to view the live site](https://communion-hub-react-website.vercel.app/)
 
 ## Overview
 This is a modern event management web application built using **Vite + React**, with authentication and database powered by **Supabase**. The application allows users to **sign up, log in, create, edit, and delete events**. The UI is designed with **Tailwind CSS**, and reusable components have been implemented for better scalability and maintainability.
